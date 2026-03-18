@@ -48,5 +48,4 @@ globefx/
 └── utils/
     └── rates.py
 
-## 👩‍💻 Developer
-Made with ❤️ by Vaishnavi
+by Vaishnavi
